@@ -4,25 +4,25 @@
 
 [iTerm2](https://www.iterm2.com/)是用来替代 OSX 默认 Terminal 的免费应用，它提供了丰富的新特性和可配置项让终端用起来更个性化和便捷
 
-[](./images/complete_display.png)
+[](https://github.com/wilfordw/markdowns/blob/master/effective_mac/iterm2/images/complete_display.png?raw=true)
 
 ### 配置
 
 隐藏滚动条
 
-[](./images/appearance_hide_scrollbars.png)
+[](https://github.com/wilfordw/markdowns/blob/master/effective_mac/iterm2/images/appearance_hide_scrollbars.png?raw=true)
 
 默认文字颜色调节为绿色
 
-[](./images/colors_setting.png)
+[](https://github.com/wilfordw/markdowns/blob/master/effective_mac/iterm2/images/colors_setting.png?raw=true)
 
 光标改为下划线
 
-[](./images/text_setting.png)
+[](https://github.com/wilfordw/markdowns/blob/master/effective_mac/iterm2/images/text_setting.png?raw=true)
 
 窗体半透明，默认窗体大小
 
-[](./images/window_setting.png)
+[](https://github.com/wilfordw/markdowns/blob/master/effective_mac/iterm2/images/window_setting.png?raw=true)
 
 ### 安装 oh-my-zsh
 
