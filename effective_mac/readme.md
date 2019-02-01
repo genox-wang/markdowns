@@ -5,6 +5,11 @@
 ### Moom
 ### Alfred 3
 ### Sublime
+
+[Sublime](https://www.sublimetext.com/) 是一款用 python 写的轻量级文本编辑器，可以用它编码，也可以作为灵感的临时存储媒介。由于可以做到秒开秒关，在需要做临时记录的时候经常会用到
+
+> 安装配置参考 [《SublineText3 安装配置》](./sublime/)
+
 ### ShadowsocksX-NG
 ### VSCode
 ### iTerm2
