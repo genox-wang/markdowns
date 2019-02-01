@@ -10,19 +10,19 @@
 
 隐藏滚动条
 
-![](./appearance_hide_scrollbars.png)
+![](./images/appearance_hide_scrollbars.png)
 
 默认文字颜色调节为绿色
 
-![](./colors_setting.png)
+![](./images/colors_setting.png)
 
 光标改为下划线
 
-![](./text_setting.png)
+![](./images/text_setting.png)
 
 窗体半透明，默认窗体大小
 
-![](./window_setting.png)
+![](./images/window_setting.png)
 
 ### 安装 oh-my-zsh
 
