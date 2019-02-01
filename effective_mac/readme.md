@@ -14,4 +14,10 @@
 > 安装配置参考 [《iTerm2 安装配置》](./iterm2/)
 
 ### AndroidStudio
+
+[Android Studio](https://developer.android.com/studio/?hl=zh-cn) 是一个Android开发环境，基于 IntelliJ IDEA. 类似 Eclipse ADT，Android Studio 提供了集成的 Android 开发工具用于开发和调试。
+虽然比 [VSCode](https://code.visualstudio.com/) 重，但由于它的调试功能比较优秀。所以在后期调试会发挥作用
+
+> 安装配置参考 [《AS 安装配置》](./as/)
+
 ### SourceTree
